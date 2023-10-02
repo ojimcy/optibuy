@@ -10,9 +10,9 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: 'Pricewise',
+  title: 'OptiBuy',
   description:
-    'Track product prices effortlessly and sace money on your online shopping',
+    'Track prices of products effortlessly and save money on your online shopping',
 };
 
 export default function RootLayout({
