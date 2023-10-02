@@ -30,6 +30,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# remove .env files
+.env
+.env.test
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
